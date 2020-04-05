@@ -32,6 +32,11 @@ react-native-rename <newName>
 react-native-rename <newName> -b <bundleIdentifier>
 ```
 
+> With Display name 
+```
+react-native-rename <newName> -d <displayName>
+```
+
 #### Example
 ```
 react-native-rename "Travel App"
@@ -41,4 +46,4 @@ react-native-rename "Travel App"
 react-native-rename "Travel App" -b com.junedomingo.travelapp
 ```
 
-<a href="https://www.buymeacoffee.com/junedomingo"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
+<a href="https://www.buymeacoffee.com/leandro.camilo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
